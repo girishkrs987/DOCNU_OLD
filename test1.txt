@@ -1,0 +1,12 @@
+ Volume in drive D has no label.
+ Volume Serial Number is 32B8-3DAB
+
+ Directory of D:\Girish Sir\Girish_data5th2015\Girish_Oldsystem\Girish\Testing\Git_Projects
+
+06/03/2018  09:49 AM    <DIR>          .
+06/03/2018  09:49 AM    <DIR>          ..
+06/03/2018  09:47 AM    <DIR>          .git
+05/29/2018  06:44 PM                 0 cd
+06/03/2018  09:49 AM                 0 test1.txt
+               2 File(s)              0 bytes
+               3 Dir(s)  305,606,778,880 bytes free
